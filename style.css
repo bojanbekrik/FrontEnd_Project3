@@ -1,0 +1,84 @@
+.container1 {
+    /*background-color: indianred;*/
+    padding-top: 2em;
+}
+
+.row {
+    /*background-color: darkseagreen;*/
+    /*border: 2px solid gray;*/
+}
+
+.borderStartui {
+    border-radius: 20px;
+    border: 2px solid purple;
+    color: purple;
+}
+
+.borderGetinTouch{
+    border-radius: 20px;
+    background-color: #f3e7fc;
+    color: #b26cf1;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.bigText {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.borderStartup {
+    background-color: #CBC3E3;
+    color: purple;
+    border-radius: 10px;
+}
+
+.headerText{
+    font-weight: bold;
+}
+
+.grayText {
+    font-weight: bold;
+    color: gray;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+.container2 {
+    background-color: #f5f5f7;
+    padding-bottom: 40px;
+}
+
+.myCard{
+    background-color: white;
+    margin: 10px;
+}
+
+.numbers {
+    color: #b26cf1;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+/* ------------------------------------------------------------------------------------------------------------------ */
+
+.container3 {
+    background-color: white;
+}
+
+.borderMarketingAndDevelopers{
+    border-radius: 20px;
+    background-color: #f5f5f7;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.grayBg{
+    background-color: #f5f5f7;
+    border-radius: 15px;
+}
+
+.pointCursor {
+    cursor: pointer;
+}
